@@ -1,4 +1,4 @@
-sudo apt install curl tar wget clang pkg-config libssl-dev jq build-essential bsdmainutils git make ncdu -y
+8sudo apt install curl tar wget clang pkg-config libssl-dev jq build-essential bsdmainutils git make ncdu -y
 -------------------------------------------------
 cd $HOME
 ver="1.18.3"
@@ -176,6 +176,5 @@ source $HOME/.bash_profile
 $request celestia1a35035fu83jkeeqz00d3jmt3k5wu5x3lyvn6qp
 
 ------------------------------------- 
-Ø¨Ø§ Ú©Ø¯ Ø²ÛŒØ± Ù‡Ù… Ù…ÛŒØªÙˆÙ†ÛŒØ¯ Ù…ÙˆØ¬ÙˆØ¯ÛŒ ÙˆÙ„Øª Ø®ÙˆØ¯ØªÙˆÙ† Ø±Ùˆ Ø¨Ø¨Ù†ÛŒØ¯  Ú©Ù‡ Ø¨Ù‡ Ø¬Ø§ÛŒ Ø§ÛŒÚ©Ø³ Ù‡Ø§ Ø§Ø¯Ø±Ø³ Ø®ÙˆØ¯ØªÙˆÙ† Ø±Ùˆ ÙˆØ§Ø±Ø¯ Ú©Ù†ÛŒØ¯ 
-
+Ø¨Ø§ Ú©Ø¯ Ø²ÛŒØ± Ù‡Ù… Ù…ÛŒØªÙˆÙ†ÛŒØ¯ Ù…ÙˆØ¬ÙˆØ¯ÛŒ ÙˆÙ„Øª Ø®ÙˆØ¯ØªÙˆÙ† Ø±Ùˆ Ø¨Ø¨Ù†ÛŒØ¯  Ú©Ù‡ Ø¨Ù‡ Ø¬Ø§ÛŒ Ø§ÛŒÚ©Ø³ Ù‡Ø§ Ø§Ø¯Ø±Ø³ Ø®ÙˆØ¯Øª
 celestia-appd q bank balances xxxxxxxxxxxxx

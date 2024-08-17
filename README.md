@@ -6,7 +6,7 @@ wget "https://golang.org/dl/go$ver.linux-amd64.tar.gz"
 sudo rm -rf /usr/local/go
 sudo tar -C /usr/local -xzf ""
 rm "go$ver.linux-amd64.tar.gz"
-echo "ort PATH=$PATH:/usr/local/go/bin:$HOME/go/bin" >> $HOME/.bash_profile
+echo "ort " >> $HOME/.bash_profile
 source $HOME/.bash_profile
 
 --------------------------------------

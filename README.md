@@ -7,7 +7,7 @@ sudo rm -rf /usr/local/go
 sudo tar -C /usr/local -xzf ""
 rm "go$ver.linux-amd64.tar.gz"
 echo "ort " >> $HOME/.bash_profile
-source $HOME/.bash_profile
+source $HOME/.bash
 
 --------------------------------------
 cd $HOME
